@@ -6,14 +6,6 @@ Extend the strength of on-premise attack mitigation with Cloud's cloud-based att
 ## FREEWAF
 ### CLOUDWAF
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
 ```
 Under DDoS Attack? The CloudWAF Difference
 Under DDoS Attack? We Can Protect You in an Emergency. Freewaf's CloudWAF mitigates DDoS attacks, including those that target UDP and ICMP protocols, SYN/ACK, DNS and NTP amplification and Layer 7 attacks. Our global network has defended against sustained attacks over 200Gbps. If you're under DDoS attack, we can get your site back online within minutes.
