@@ -17,7 +17,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[https://www.freewaf.com]and![https://www.freewaf.com/img/logo.png]
+[Link](https://www.freewaf.com)and![Images](https://www.freewaf.com/img/logo.png)
 [Link](url) and ![Image](src)
 ```
 Under DDoS Attack? The CloudWAF Difference
@@ -38,10 +38,5 @@ CloudWAF sees roughly 0.2 million requests every second, and our WAF is continua
 
 When one customer requests a new custom WAF rule, we analyze whether it applies to all 5.5 million domains on our network. If it does, we automatically apply that rule to everybody on our network. The more web properties on our network, the stronger our WAF gets, and the safer the Cloudwaf community becomes.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cloudwaf/waf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email:s@freewaf.com
