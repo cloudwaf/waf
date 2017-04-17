@@ -2,10 +2,6 @@
 You can visit   https://www.freewaf.com  
 Security as a Service! Are You Under Attack?
 Extend the strength of on-premise attack mitigation with Cloud's cloud-based attack mitigation service. Physical security,Account security,Network Security,Server security,Application security,Guaranteed Protection Against ANY Type of Attack!
-
-```markdown
-Syntax highlighted code block
-
 # OWASP2017
 ## FREEWAF
 ### CLOUDWAF
@@ -17,7 +13,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[Link](https://www.freewaf.com)and![Images](https://www.freewaf.com/img/logo.png)
 [Link](url) and ![Image](src)
 ```
 Under DDoS Attack? The CloudWAF Difference
