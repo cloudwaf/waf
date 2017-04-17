@@ -5,8 +5,7 @@ Extend the strength of on-premise attack mitigation with Cloud's cloud-based att
 # OWASP2017
 ## FREEWAF
 ### CLOUDWAF
-
-```
+--------------------------------------------------------------------------------
 Under DDoS Attack? The CloudWAF Difference
 Under DDoS Attack? We Can Protect You in an Emergency. Freewaf's CloudWAF mitigates DDoS attacks, including those that target UDP and ICMP protocols, SYN/ACK, DNS and NTP amplification and Layer 7 attacks. Our global network has defended against sustained attacks over 200Gbps. If you're under DDoS attack, we can get your site back online within minutes.
 
@@ -24,6 +23,6 @@ Freewaf's CloudWAF enterprise-class web application firewall (WAF) protects your
 CloudWAF sees roughly 0.2 million requests every second, and our WAF is continually identifying and blocking new potential threats. If you’re using a web application firewall that doesn’t leverage the collective intelligence of other web properties, you need to supply all your own WAF rules from scratch, which means you need to monitor the entire Internet security landscape on your own.
 
 When one customer requests a new custom WAF rule, we analyze whether it applies to all 5.5 million domains on our network. If it does, we automatically apply that rule to everybody on our network. The more web properties on our network, the stronger our WAF gets, and the safer the Cloudwaf community becomes.
-
+----------------------------------------------------------------------
 ### Support or Contact
 Email:s@freewaf.com
